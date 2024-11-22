@@ -1,0 +1,12 @@
+{
+	"name": "DSsrcSQL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LSsrcSQL",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
